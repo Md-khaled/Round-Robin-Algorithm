@@ -156,5 +156,6 @@ less than or  equal  to time quantum  */
     }
     printf("\nAverage TurnAround Time :->%f",atat/n);
     printf("\nAverage Waiting Time :->%f ",awt/n);
+    printf("\n Thanks for visiting my site");
     return 0;
 }
